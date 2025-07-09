@@ -28,6 +28,8 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
+    "express": "^5.1.0",
+    "typescript": "^5.8.3",
     "wt-journey-backend": "file:"
   }
 }
